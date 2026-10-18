@@ -276,6 +276,7 @@ Toolkits for shipping your own games to the browser.
 | ⭐ | [Internet Archive DOS](https://archive.org/details/softwarelibrary_msdos_games) | Thousands of one-click classics. |
 | ⭐ | [EmulatorJS](https://emulatorjs.org/) | Every console emulator in one place. |
 | ⭐ | [ScummVM](https://www.scummvm.org/) | The definitive point-and-click library. |
+|  | [PortedGames](https://portedgames.com/) | Directory of new fan and AI browser ports, with each one's status checked daily. |
 
 ---
 
