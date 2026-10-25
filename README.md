@@ -187,6 +187,7 @@ Point-and-click classics — mostly LucasArts/Sierra titles running via js-dos o
 | Project | Notes |
 |---------|-------|
 | [EmulatorJS](https://emulatorjs.org/) | NES, SNES, N64, Game Boy/GBA, DS, Genesis, PlayStation, PSP, Atari, Neo Geo, Arcade, and more. |
+| [Recompiled Games](https://recompgames.net/play) | Catalog of 70+ browser-playable recompilations and decompilation ports (N64, PS2, Xbox, PC and more), each labeled with where it is hosted and whether you need your own game files. |
 | [RetroArch Web Player](https://web.libretro.com/) | Official browser build of RetroArch. |
 | [webretro](https://binbashbanana.github.io/webretro/) | Standalone RetroArch-in-browser front-end. |
 | [webЯcade](https://www.webrcade.com/) | Beautiful, app-store-style web front-end for emulation. |
