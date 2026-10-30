@@ -26,6 +26,7 @@ Everything here runs in a modern browser. Some projects are freeware or fully op
 - [DOS Game Libraries](#dos-game-libraries)
 - [Windows Game Libraries](#windows-game-libraries)
 - [Console & Arcade Libraries](#console--arcade-libraries)
+- [Browser Port Directories](#browser-port-directories)
 - [Emulators](#emulators)
 - [Source Ports](#source-ports)
 - [Open Source Games](#open-source-games)
@@ -190,6 +191,16 @@ Point-and-click classics — mostly LucasArts/Sierra titles running via js-dos o
 | [RetroArch Web Player](https://web.libretro.com/) | Official browser build of RetroArch. |
 | [webretro](https://binbashbanana.github.io/webretro/) | Standalone RetroArch-in-browser front-end. |
 | [webЯcade](https://www.webrcade.com/) | Beautiful, app-store-style web front-end for emulation. |
+
+---
+
+## Browser Port Directories 📚
+
+Sites that track browser ports across many platforms and link out to each project.
+
+| Directory | Notes |
+|-----------|-------|
+| [Play Games in Browser](https://playgamesinbrowser.com/) | 190+ browser ports, remakes and official web editions, one page each saying who made the port, whether it's official, and whether you need your own game files. Hosts no game files. |
 
 ---
 
